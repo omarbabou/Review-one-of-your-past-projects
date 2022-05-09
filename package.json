@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/omarbabou/Review-one-of-your-past-projects/issues"
   },
-  "homepage": "https://github.com/omarbabou/Review-one-of-your-past-projects#readme"
+  "homepage": "https://github.com/omarbabou/Review-one-of-your-past-projects#readme",
+  "devDependencies": {
+    "hint": "^6.2.0"
+  }
 }
