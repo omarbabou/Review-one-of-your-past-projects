@@ -1,4 +1,11 @@
-ul {
+#header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.nav-links {
   width: 35vw;
   display: flex;
   flex-direction: row;
@@ -6,7 +13,9 @@ ul {
 }
 
 @media (max-width: 650px) {
-  #ul {
-    flex-direction: column;
+  body {
+    margin-top: 15px;
+    width: 100%;
+    position: relative;
   }
 }
